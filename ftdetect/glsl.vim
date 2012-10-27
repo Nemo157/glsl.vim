@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.vert\|*.frag setfiletype glsl
+au BufNewFile,BufRead *.vert\|*.frag\|*.glsl setfiletype glsl
